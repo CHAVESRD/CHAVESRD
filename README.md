@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Danilo Chaves (@CHAVESRD)
-- 👀 I’m interested in computer sciences:, BD, IA, programming... I'm also interested in clean power resources as neutrins energy, water (hidrogen) motors, and astronomy and subatomics particles, dc and marvel universes.
-- 🌱 I’m currently learning about git, clean arquitect and net core, flutter.
-- 💞️ I’m looking to collaborate on, maybe, programming pages or interesting projects.
-- 📫 How to reach me: on telegram as Danilo Chaves Rodríguez
+- 👋 Hola, soy Danilo Chaves (@CHAVESRD)
+- 👀 Mis interes en ciencias de la computación:, BD, IA, programming...
+- Otros intereses: También me interesa energías limpias tal como energía de neutrinos, motores de agua (hidrógeno), así como astronomía y partículas subatómicas, universos dc y marvel.
+- 🌱 Actualmente estoy aprendiendo acerca de git, arquitectura limpia y .net core, así comom flutter.
+- 💞️ Busco colaborar en (poddria ser) proyectos interesantes de paginas o apps, etc..
+- 📫 Como contactarme: en telegram me encuentras como Danilo Chaves Rodríguez
 
 <!---
-CHAVESRD/CHAVESRD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+CHAVESRD/CHAVESRD es un repositorio ✨ special ✨ porque es un `README.md` (este archkivo) aparece en su perfil de GitHub.
+Puede hacer en el enlace vista previa (Preview) para echar un vistazo a sus cambios.
 --->
